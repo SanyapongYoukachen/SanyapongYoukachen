@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanyapongYoukachen
 - 👀 I’m interested in React, TensorFlow and Statistics 
 - 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on digital transform
+- 💞️ I’m looking to collaborate on LINE API
 - 📫 How to reach me sanyapong234@gmail.com
 
 <!---
