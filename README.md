@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SanyapongYoukachen
-- 👀 I’m interested in React, TensorFlow and Statistics 
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on LINE API
-- 📫 How to reach me sanyapong234@gmail.com
+- 👀 I’m interested in Computer Vision, MLOps, ERP
+- 🌱 I’m currently learning MLOps
 
 <!---
 SanyapongYoukachen/SanyapongYoukachen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
